@@ -1,0 +1,4 @@
+{
+  "session_name": "type://user:pass@ip:port",
+  "session_name2": "type://ip:port"
+}

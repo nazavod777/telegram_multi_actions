@@ -1,0 +1,2 @@
+class WrongProxyFormat(BaseException):
+    pass
