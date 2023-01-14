@@ -177,7 +177,7 @@ if __name__ == '__main__':
         else:
             logger.info('Не удалось обнаружить ни 1 прокси в `proxies.txt`, работаю без прокси')
 
-    user_action = int(input('1. Создать Pyrogram сессии\n'
+    user_action = int(input('\n1. Создать Pyrogram сессии\n'
                             '2. Telegram Mass Joiner\n'
                             '3. Telegram Mass Message Sender\n'
                             '4. Telegram Mass Click Inline Buttons\n'
